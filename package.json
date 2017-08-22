@@ -1,0 +1,28 @@
+{
+  "name": "nw-cucumber-not-exiting",
+  "version": "1.0.0",
+  "description": "nw-cucumber is not exiting after a failure when abortOnAssertionFailure is on",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch -c nightwatch-conf.js"
+  },
+  "keywords": [
+    "nightwatch",
+    "cucumber",
+    "expect",
+    "bug",
+    "selenium"
+  ],
+  "author": "Imobach Martin",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^2.31.0",
+    "cucumber": "2.3.1",
+    "cucumber-html-reporter": "2.0.0",
+    "cucumber-junit": "1.7.0",
+    "geckodriver": "^1.8.0",
+    "nightwatch": "0.9.16",
+    "nightwatch-cucumber": "7.1.10",
+    "selenium-server": "3.4.0"
+  }
+}
