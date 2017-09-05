@@ -1,3 +1,5 @@
+** [This issue](https://github.com/mucsi96/nightwatch-cucumber/issues/270) is already fixed as of v8.0.6 **
+
 # nw-cucumber-not-exiting
 nw-cucumber is not exiting after a failure when abortOnAssertionFailure is on
 
